@@ -82,7 +82,7 @@
             <div class="card">
                 <img src="./assets/img/poster 4.webp" class="card-img" alt="">
                 <div class="card-body">
-                    <h2 class="name">Chichor</h2>
+                    <h2 class="name">Chichore</h2>
                     <h6 class="des">Lorem ipsum dolor sit consectetur elit.</h6>
                     <button class="watchlist-btn">add to watchlist</button>
                 </div>
